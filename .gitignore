@@ -1,0 +1,12 @@
+# Virtual environments
+venv/
+env/
+
+# IDE / OS files
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+
+# dotenv & credentials
+.env
