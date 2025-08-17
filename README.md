@@ -1,4 +1,4 @@
-# 🏆 Milestone Bot
+# 🏆 Milestone Bot DEMO BRANCH
 
 A purpose‑built Discord bot for logging, displaying, and managing player **milestones** with Google Sheets as a structured, auditable backend.  
 Designed for **self‑service**, **resilience**, and a **smooth user experience** — with leaderboards, personal stats, autocomplete, and safe entry removal.
